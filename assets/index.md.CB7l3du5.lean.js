@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as r,ae as t}from"./chunks/framework.Dh1jimFm.js";const c=JSON.parse('{"title":"The Komox Library","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"};function l(s,a,n,m,_,h){return r(),o("div",null,a[0]||(a[0]=[t("",4)]))}const x=e(i,[["render",l]]);export{c as __pageData,x as default};
